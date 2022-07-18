@@ -4,27 +4,25 @@ h1{text-align: center;}
     background-color: rgb(237, 237, 237);
     width:70%;
     margin-left:15%;
-    padding:3px;
+    padding:0.5em;
     }
 
-.extra{
-    background-color: #d9d2e9;
+.blok{
     max-width:80%;
+    min-width:25%;
     margin-left:10%;
-    padding:3px;
+    padding:1em;
     margin-bottom:0.5em;
     border-radius: 25px;
     border:1px solid black;
+}
+
+.extra{
+    background-color: #d9d2e9;
     }
 
 .tip{
     background-color:#fce5cd;
-    max-width:80%;
-    margin-left:10%;
-    padding:3px;
-    margin-bottom:0.5em;
-    border-radius: 25px;
-    border:1px solid black;
     }
 .tiptekst span{
     font-family: Lobster, Papyrus, sans-serif;
