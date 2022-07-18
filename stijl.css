@@ -1,7 +1,9 @@
 #inhoud{
+    text-align: center;
     background-color: lightgrey;
-    width:80%;
-    margin-left:10%
+    width:70%;
+    margin-left:15%;
+    padding:1%;
 }
 
 .extra{background-color: #d9d2e9;}
