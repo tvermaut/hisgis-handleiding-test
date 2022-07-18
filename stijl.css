@@ -4,11 +4,21 @@
     width:70%;
     margin-left:15%;
     padding:1%;
-}
+    }
 
-.extra{background-color: #d9d2e9;}
+.extra{
+    background-color: #d9d2e9;
+    width:80%;
+    margin-left:10%;
+    padding:1%;
+    }
 
-.tip{background-color:#fce5cd;}
+.tip{
+    background-color:#fce5cd;
+    width:80%;
+    margin-left:10%;
+    padding:1%;
+    }
 /* .tip:before {
     content: "<span class='tiptekst'>Tip!</span><br/>";
   } */
