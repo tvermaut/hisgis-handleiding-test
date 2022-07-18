@@ -12,13 +12,15 @@ h1{text-align: center;}
     width:80%;
     margin-left:10%;
     padding:3px;
+    margin-bottom:0.5em;
     }
 
 .tip{
     background-color:#fce5cd;
     width:80%;
     margin-left:10%;
-    padding:1%;
+    padding:3px;
+    margin-bottom:0.5em;
     }
 /* .tip:before {
     content: "<span class='tiptekst'>Tip!</span><br/>";
