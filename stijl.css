@@ -10,7 +10,7 @@
 /* .tip:before {
     content: "<span class='tiptekst'>Tip!</span><br/>";
   } */
-.tiptekst{
+.tiptekst span{
     font-family: Lobster, Papyrus, sans-serif;
     font-style: italic;
     font-weight: bold;
