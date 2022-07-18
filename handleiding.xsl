@@ -19,7 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="p">
-    <p><xsl:apply-templates select="text()|./*"/></p>
+    <p><xsl:apply-templates select="text()|./*"/></p>\n
 </xsl:template>
 
 
