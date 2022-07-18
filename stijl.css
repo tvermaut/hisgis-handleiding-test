@@ -13,6 +13,8 @@ h1{text-align: center;}
     margin-left:10%;
     padding:3px;
     margin-bottom:0.5em;
+    border-radius: 25px;
+    border:1px solid black;
     }
 
 .tip{
@@ -21,10 +23,9 @@ h1{text-align: center;}
     margin-left:10%;
     padding:3px;
     margin-bottom:0.5em;
+    border-radius: 25px;
+    border:1px solid black;
     }
-/* .tip:before {
-    content: "<span class='tiptekst'>Tip!</span><br/>";
-  } */
 .tiptekst span{
     font-family: Lobster, Papyrus, sans-serif;
     font-style: italic;
