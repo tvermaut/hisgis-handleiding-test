@@ -16,8 +16,7 @@
     <script>$(function() {
       var xsldoc = $.xsl.load('handleiding.xsl');
       var xmldoc = $.xsl.load('handleiding.xml');
-      $('#inhoud').getTransform(xsldoc,xmldoc,{xpath: '/*'});
-      $("#inhoud").load("./handleiding.html").ready(function(){
+      $('#inhoud').getTransform(xsldoc,xmldoc,{xpath: '/*'}).ready(function(){
       $('.tip').each(function() {
         $(this).before($('<span>').text("Tip!\n"));
 })
