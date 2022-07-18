@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="h2">
-    <h2><xsl:apply-templates/></h2>
+    <h2><xsl:value-of select="."/></h2>
 </xsl:template>
 
 <xsl:template match="tip">
@@ -19,7 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="p">
-    <p><xsl:apply-templates/></p>
+    <p><xsl:value-of select="."/></p>
 </xsl:template>
 
 </xsl:stylesheet>
