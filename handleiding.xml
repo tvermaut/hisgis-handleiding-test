@@ -37,7 +37,7 @@
         <tr><td>Schoonrewoerd</td><td>https://0.osm.hisgis.nl/#map=15/51.9295/5.0971</td></tr>
         <tr><td>Leerdam</td><td></td></tr>
     </table>
-    <p>Navigeren kan ook zoals bijvoorbeeld in Google Maps. Met het scrollwieltje van de muis kun je in en uitzoomen (de kaart groter of kleiner maken), en met een click&hold van de linker-muisknop kun je de kaart verplaatsen.</p>
+    <p>Navigeren kan ook zoals bijvoorbeeld in Google Maps. Met het scrollwieltje van de muis kun je in en uitzoomen (de kaart groter of kleiner maken), en met een click&amp;hold van de linker-muisknop kun je de kaart verplaatsen.</p>
     <p>Je kan ook de naam van je gemeente in het zoekvenster linksboven intikken en zoeken activeren.</p>
     <p>Aangekomen bij het juiste gebied klik je linksboven (naast het OpenStreetMap-logo) op de knop [bewerken]. De iD editor laad dan. Als achtergrond zie je standaard de aan elkaar geplakte gegeorefereerde minuutplans van het kadaster 1832. Het zijn deze kaarten die we digitaliseren.</p>
     <div class="tip">Werk je voor het eerst met de iD editor kijk dan even deze tutorial uit  de LearnOSM (open street map) omgeving. De link brengt je naar de Engelstalige versie maar in de menubalk vlak boven “LearnOSM” kan je omschakelen naar Nederlands</div>
