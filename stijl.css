@@ -7,9 +7,9 @@
 .extra{background-color: #d9d2e9;}
 
 .tip{background-color:#fce5cd;}
-.tip:before {
+/* .tip:before {
     content: "<span class='tiptekst'>Tip!</span><br/>";
-  }
+  } */
 .tiptekst{
     font-family: Lobster, Papyrus, sans-serif;
     font-style: italic;
