@@ -9,7 +9,7 @@ h1{text-align: center;}
 
 .extra{
     background-color: #d9d2e9;
-    width:80%;
+    max-width:80%;
     margin-left:10%;
     padding:3px;
     margin-bottom:0.5em;
@@ -19,7 +19,7 @@ h1{text-align: center;}
 
 .tip{
     background-color:#fce5cd;
-    width:80%;
+    max-width:80%;
     margin-left:10%;
     padding:3px;
     margin-bottom:0.5em;
