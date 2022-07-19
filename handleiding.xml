@@ -21,14 +21,14 @@
 
 
 <h2>Aanmelding</h2>
-    <p>Als je nog geen account hebt kun je dat op https://0.osm.hisgis.nl/  ook aanmaken. Dat doe je door een zelfgekozen gebruikersnaam en wachtwoord te kiezen. Kies een goed wachtwoord. Liefst gebruik je een wachtwoord generator zoals die van je browser?</p>
+    <p>Als je nog geen account hebt kun je dat op [0.osm.hisgis.nl]  ook aanmaken. Dat doe je door een zelfgekozen gebruikersnaam en wachtwoord te kiezen. Kies een goed wachtwoord. Liefst gebruik je een wachtwoord generator zoals die van je browser?</p>
     
     <p>Je kunt ons ook direct benaderen door een email te sturen naar helpmee[at]hisgis.nl.</p>
     <p>Nadat je een account aangemaakt hebt, geeft het systeem aan dat je een email krijgt. Negeer die melding en neem even contact op met ons via  teamgeo[at]di.huc.knaw.nl. Wij activeren dan je account en sturen je daarvan de bevestiging.</p>
     
     <p>Om te voorkomen dat tekenaars elkaar in de weg zitten of dat er gebieden ingevoerd worden die al in eerdere systemen zijn ingevoerd, coördineert het team ook wie welk gebied aan het tekenen is. In overleg krijg je dan een gemeente toegewezen.</p>
 
-<h2>Naar de editor gaan</h2>
+<!-- <h2>Naar de editor gaan</h2>
     <p>Als je account is geactiveerd kun je op https://0.osm.hisgis.nl/ naar de gemeente waar je binnen gaat tekenen navigeren.</p>
     <p>Directe links naar de verschillende gemeenten of delen daarvan vind je in de tabel hieronder.</p>
     <table>
@@ -44,5 +44,5 @@
     <tip>
         <p>Om de leesbaarheid van de kaart te verhogen is het handig om eerst de belichting en het contrast van de kaart aan te passen. Zoom hiervoor naar een willekeurig punt in de gemeente en zorg dat je meerdere percelen en perceelnummers in beeld hebt staan. Zo kun je goed zien wat het effect van de aanpassing van de belichting is.</p>
         <p>Vervolgens klik je uiterst rechts op het knopje met de verschillende rechthoekjes boven elkaar  (je kunt ook op de toets <kbd>b</kbd> van het toetsenbord drukken). Dit opent het achtergrondinstellingen-menu.</p>
-    </tip>
+    </tip> -->
 </inhoud>
