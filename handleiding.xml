@@ -2,7 +2,7 @@
 <?xml-stylesheet type='text/xsl' href='./handleiding.xsl'?>
 
 <inhoud>
-<h2>Indeling document</h2>
+<!-- <h2>Indeling document</h2>
     <p>Primair gericht op hulp bij het intekenen van het kadaster begint elk onderwerp in de tekenhandleiding met een zo kort mogelijke introductie direct gevolgd door stapsgewijze instructies, tips bij de instructies en dan, als dat past, extra informatie waarin meer detail.</p>
     <p>De “Tips!”-sectie en de “Extra Informatie”-sectie krijgen een eigen achtergrondkleur om ze goed herkenbaar in te laten zijn.</p>
     <tip>Tips hebben een eigen achtergrondkleur.</tip>
@@ -17,7 +17,7 @@
 <h2>Waarmee tekenen we?</h2>
     <p>Om deze vlakken en lijnen te tekenen gebruiken we de web-editor iD. Dit is een programma dat ontwikkeld is voor het moderne Open Street Map-project.</p>
     <p>De iD editor in de HisGIS webomgeving vind je hier: https://0.osm.hisgis.nl/.</p>
-
+ -->
 
 
 <h2>Aanmelding</h2>
